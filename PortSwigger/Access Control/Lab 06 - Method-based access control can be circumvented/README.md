@@ -10,7 +10,7 @@
 Log in using the credentials wiener:peter and exploit the flawed access controls to promote yourself to become an administrator.
 
 ### Explanation
-Faça login usando uma conta de administrador e acesse o painel de administração para promover o usuário [Normal]
+Log in using an administrator account and access the administration panel to promote the user [Normal]
 ![panel-admin](images/login2026-05-17.png)
 
 When we try to upgrade a user:
