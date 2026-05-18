@@ -9,7 +9,8 @@
 
 # Objective
 
-This lab has a horizontal privilege escalation vulnerability on the user account page, but identifies users with GUIDs.
+This lab has a horizontal privilege escalation vulnerability on the user account page.
+To solve the lab, obtain the API key for the user carlos and submit it as the solution.
 
 ## Exploitation
 
