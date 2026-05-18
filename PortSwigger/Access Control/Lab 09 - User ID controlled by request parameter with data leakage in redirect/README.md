@@ -12,6 +12,7 @@ To solve the lab, obtain the API key for the user carlos and submit it as the so
 **Login as user wiener:**
 
 ![login](images/login-09-2026-05-17.png)
+
 **After authentication, I navigated to the My Account page.**
 
 
@@ -25,8 +26,11 @@ The application used the user identifier directly in the request:
 **Modifying the parameter for carlos:**
 
 ![change](images/parameter-carlos2026-05-18.png)
+
 ![302-found](images/302-found2026-05-18.png)
+
 ![api](images/api-carlos2026-05-18.png)
+
 ![solved](images/solved-lab09-2026-05-18.png)
 
 
