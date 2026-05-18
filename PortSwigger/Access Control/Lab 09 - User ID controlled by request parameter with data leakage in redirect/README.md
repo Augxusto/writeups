@@ -22,7 +22,7 @@ To solve the lab, obtain the API key for the user carlos and submit it as the so
 Using Burp Suite, I intercepted the request sent when accessing the account page.
 The application used the user identifier directly in the request:
 
-![my account](images/my-account-wiener2026-05-18.png)
+![id-wiener](images/id-wiener2026-05-18.png)
 
 ---
 
