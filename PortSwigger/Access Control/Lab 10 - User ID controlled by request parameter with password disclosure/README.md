@@ -36,4 +36,4 @@ To solve the lab, retrieve the administrator's password and use it to delete the
 
 ### When we login using an administrator account, we get 1 additional feature, namely : Admin Panel.
 
-![solved](<images/solved2026-05-20 154437.png>)V
+![solved](<images/solved2026-05-20 154437.png>)
