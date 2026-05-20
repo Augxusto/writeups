@@ -1,7 +1,7 @@
 # TELNET - authentication
 
 ## Information
-> Difficulty: Easy <br>
+> Difficulty: Easy 
 > Date: 19-05-2026
 ---
 ### Objective
